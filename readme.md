@@ -19,3 +19,9 @@ Documentation for the entire framework can be found on the [Laravel website](htt
 ### License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
+
+## Setup
+1. Import source to your project
+2. Create database then import file laravel-4.1.27.sql to database
+3. Config database for project (app/config/database.php)
+
